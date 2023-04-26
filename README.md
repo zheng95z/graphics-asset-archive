@@ -1,6 +1,6 @@
 <h1 align="center">graphics-asset-archive</h1>
 
-## Open asset by insititutions
+**Open asset by institutions**
 - [NVIDIA's Open Research Content Archive](https://developer.nvidia.com/orca)
 - [KhronosGroup/glTF-Sample-Models: glTF Sample Models](https://github.com/KhronosGroup/glTF-Sample-Models)
 - [Disney's Data Sets](https://www.disneyanimation.com/data-sets)
@@ -15,18 +15,18 @@
 - [NimbleStudio demo assets](https://github.com/aws-samples/nimblestudio-demo-assets)
 - [USD Sample Assets](https://openusd.org/release/dl_downloads.html)
 
-## Open asset by giants
+**Open asset by giants**
 - [McGuire Computer Graphics Archive](https://casual-effects.com/data)
 - [Benedikt Bitterli's Rendering Resources](https://benedikt-bitterli.me/resources/)
 - [Ingo Wald's the Utah 3D Animation Repository](http://www.sci.utah.edu/~wald/animrep/)
 - [Mike Winkelmann's Resources](https://www.beeple-crap.com/resources)
 
-## Example scenes for renderers
+**Example scenes for renderers**
 - [Example scenes for pbrt-v4](https://github.com/mmp/pbrt-v4-scenes)
 - [Example scenes for Mitsuba](https://www.mitsuba-renderer.org/download.html)
 - [Official demo scenes of Blender](https://www.blender.org/download/demo-files/)
 
-## Marketplace
+**Marketplace**
 - [TurboSquid](https://www.turbosquid.com/)
   - [Free items](https://www.turbosquid.com/Search/3D-Models/free)
 - [Free3D.com](https://free3d.com/)
@@ -36,6 +36,6 @@
 - [Scan The World](https://www.myminifactory.com/scantheworld/full-collection)
 - [Three D Scans - Free 3D scan archive](https://threedscans.com/)
 
-## Solo
+**Solo**
 - [Open chess set](https://github.com/AcademySoftwareFoundation/MaterialX#open-chess-set)
 -
