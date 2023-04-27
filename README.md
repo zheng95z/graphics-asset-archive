@@ -20,6 +20,7 @@
 - [Benedikt Bitterli's Rendering Resources](https://benedikt-bitterli.me/resources/)
 - [Ingo Wald's the Utah 3D Animation Repository](http://www.sci.utah.edu/~wald/animrep/)
 - [Mike Winkelmann's Resources](https://www.beeple-crap.com/resources)
+- [Keenan Crane's 3D Model Repository](https://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository/)
 
 **Example scenes for renderers**
 - [Example scenes for pbrt-v4](https://github.com/mmp/pbrt-v4-scenes)
