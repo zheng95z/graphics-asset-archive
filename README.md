@@ -38,4 +38,3 @@
 
 **Solo**
 - [Open chess set](https://github.com/AcademySoftwareFoundation/MaterialX#open-chess-set)
--
