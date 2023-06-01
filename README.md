@@ -14,6 +14,7 @@
 - [J Cube Inc 3D Assets](https://j-cube.jp/solutions/multiverse/assets/)
 - [NimbleStudio demo assets](https://github.com/aws-samples/nimblestudio-demo-assets)
 - [USD Sample Assets](https://openusd.org/release/dl_downloads.html)
+- [Three D Scans - Free 3D scan archive](https://threedscans.com/)
 
 **Open asset by giants**
 - [McGuire Computer Graphics Archive](https://casual-effects.com/data)
