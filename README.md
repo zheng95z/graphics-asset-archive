@@ -37,6 +37,7 @@
 - [Sketchfab](https://sketchfab.com/)
 - [Scan The World](https://www.myminifactory.com/scantheworld/full-collection)
 - [Three D Scans - Free 3D scan archive](https://threedscans.com/)
+- [Free - Poliigon](https://www.poliigon.com/search/free)
 
 **Solo**
 - [Open chess set](https://github.com/AcademySoftwareFoundation/MaterialX#open-chess-set)
