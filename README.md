@@ -15,6 +15,7 @@
 - [NimbleStudio demo assets](https://github.com/aws-samples/nimblestudio-demo-assets)
 - [USD Sample Assets](https://openusd.org/release/dl_downloads.html)
 - [Three D Scans - Free 3D scan archive](https://threedscans.com/)
+- [NVIDIA OMNIVERSE USD Example Datasets](https://docs.omniverse.nvidia.com/usd/latest/usd_content_samples/sample_content.html)
 
 **Open asset by giants**
 - [McGuire Computer Graphics Archive](https://casual-effects.com/data)
